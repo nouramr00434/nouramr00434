@@ -6,6 +6,13 @@
 # 💫 About Me:
 Computing and Communication Engineering student at Alexandria University with a strong foundation in Python, C/C++, SQL, Linux, data structures, databases, and software development. Interested in DevOps, cloud computing, automation, and data engineering, with a focus on building reliable and scalable systems.<br><br>I enjoy solving technical problems, building practical projects, and continuously expanding my engineering skill set. Currently seeking opportunities to apply my knowledge in real-world environments, collaborate with experienced teams, and grow as a software and DevOps engineer.<br>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nouramr00434&label=Profile%20views&color=0e75b6&style=flat" alt="nouramr00434" /> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/nour-amr-336510366/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nour-amr-336510366/" height="30" width="40" /></a>
+<a href="https://discord.gg/866405772962955265" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="866405772962955265" height="30" width="40" /></a>
+</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nour-amr-336510366) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:es.nour.amr2024@alexu.edu.eg) 

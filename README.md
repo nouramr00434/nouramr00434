@@ -1,6 +1,9 @@
 ##<p align="center">
   <img src="[https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=header&reversal=false&text=Hello+Friend&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60)"/>
 </p>
+<a href="https://www.instagram.com/thepiyushmalhotra/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+</a>
 # 💫 About Me:
 Computing and Communication Engineering student at Alexandria University with a strong foundation in Python, C/C++, SQL, Linux, data structures, databases, and software development. Interested in DevOps, cloud computing, automation, and data engineering, with a focus on building reliable and scalable systems.<br><br>I enjoy solving technical problems, building practical projects, and continuously expanding my engineering skill set. Currently seeking opportunities to apply my knowledge in real-world environments, collaborate with experienced teams, and grow as a software and DevOps engineer.<br>
 

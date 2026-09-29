@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 # 💫 About Me:
 Computing and Communication Engineering student at Alexandria University with a strong foundation in Python, C/C++, SQL, Linux, data structures, databases, and software development. Interested in DevOps, cloud computing, automation, and data engineering, with a focus on building reliable and scalable systems.<br><br>I enjoy solving technical problems, building practical projects, and continuously expanding my engineering skill set. Currently seeking opportunities to apply my knowledge in real-world environments, collaborate with experienced teams, and grow as a software and DevOps engineer.<br>
 
